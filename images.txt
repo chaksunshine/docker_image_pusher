@@ -1,7 +1,7 @@
 mysql:8.0.39
 #redis:7.0.9
 #zookeeper:3.8.3
-#bitnami/kafka
+bitnami/kafka:3.1.0
 
 
 #nginx
