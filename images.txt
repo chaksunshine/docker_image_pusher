@@ -1,13 +1,18 @@
 #mysql:8.0.39
-#redis:7.0.9
+
 #zookeeper:3.8.3
 #bitnami/kafka:3.1.0
+
+#redis 可视化
+redislabs/redisinsight
+#redis:7.0.9
+
 
 # es
 #docker.elastic.co/elasticsearch/elasticsearch:8.10.0
 
 # es可视化
-cars10/elasticvue
+#cars10/elasticvue
 
 #nginx
 #支持私库
