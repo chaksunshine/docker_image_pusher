@@ -4,9 +4,12 @@
 #bitnami/kafka:3.1.0
 
 #redis 可视化
-redislabs/redisinsight
+#redislabs/redisinsight
 #redis:7.0.9
 
+#etcd
+quay.io/coreos/etcd:v3.4.15
+etcd-browser
 
 # es
 #docker.elastic.co/elasticsearch/elasticsearch:8.10.0
