@@ -9,7 +9,8 @@
 
 #etcd
 #quay.io/coreos/etcd:v3.4.15
-shipyard/shipyard
+#shipyard/shipyard
+soyking/e3w:v0.1.0
 
 # es
 #docker.elastic.co/elasticsearch/elasticsearch:8.10.0
