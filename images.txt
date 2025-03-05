@@ -9,7 +9,8 @@
 
 #etcd
 #quay.io/coreos/etcd:v3.4.15
-nikfoundas/etcd-browser:latest
+#nikfoundas/etcd-browser:latest
+joinsunsoft/etcdv3-browser
 
 # es
 #docker.elastic.co/elasticsearch/elasticsearch:8.10.0
