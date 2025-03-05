@@ -9,8 +9,7 @@
 
 #etcd
 #quay.io/coreos/etcd:v3.4.15
-#
-rustyx/etcdv3-browser
+shipyard/shipyard
 
 # es
 #docker.elastic.co/elasticsearch/elasticsearch:8.10.0
