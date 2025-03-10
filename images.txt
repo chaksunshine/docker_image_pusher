@@ -4,7 +4,7 @@
 #bitnami/kafka:3.1.0
 
 #redis 可视化
-redislabs/redisinsight:latest
+#redislabs/redisinsight:latest
 #redis:7.0.9
 
 #etcd
@@ -16,6 +16,8 @@ redislabs/redisinsight:latest
 
 # es可视化
 #cars10/elasticvue
+
+centos
 
 #nginx
 #支持私库
