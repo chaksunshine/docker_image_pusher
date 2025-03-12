@@ -6,6 +6,7 @@
 #redis 可视化
 #redislabs/redisinsight:latest
 #redis:7.0.9
+yedf/dtm:latest
 
 #etcd
 #quay.io/coreos/etcd:v3.4.15
