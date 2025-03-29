@@ -18,7 +18,8 @@ yedf/dtm:latest
 # es可视化
 #cars10/elasticvue
 
-centos
+#centos
+postgres:17.2
 
 #nginx
 #支持私库
