@@ -6,7 +6,8 @@
 #redis 可视化
 #redislabs/redisinsight:latest
 #redis:7.0.9
-yedf/dtm:latest
+#yedf/dtm:latest
+nacos/nacos-server
 
 #etcd
 #quay.io/coreos/etcd:v3.4.15
@@ -19,7 +20,7 @@ yedf/dtm:latest
 #cars10/elasticvue
 
 #centos
-postgres:17.2
+#postgres:17.2
 
 #nginx
 #支持私库
