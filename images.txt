@@ -7,7 +7,8 @@
 #redislabs/redisinsight:latest
 #redis:7.0.9
 #yedf/dtm:latest
-nacos/nacos-server
+#nacos/nacos-server
+redis:8.0
 
 #etcd
 #quay.io/coreos/etcd:v3.4.15
