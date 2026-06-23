@@ -10,7 +10,7 @@
 #nacos/nacos-server
 # redis:8.8.0
 #qdrant/qdrant:latest
-milvus:latest
+milvusdb/milvus:v2.5.6
 
 #etcd
 #quay.io/coreos/etcd:v3.4.15
