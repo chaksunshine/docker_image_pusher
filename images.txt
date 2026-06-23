@@ -9,8 +9,8 @@
 #yedf/dtm:latest
 #nacos/nacos-server
 # redis:8.8.0
-qdrant/qdrant:latest
-neo4j:latest
+#qdrant/qdrant:latest
+milvus:latest
 
 #etcd
 #quay.io/coreos/etcd:v3.4.15
